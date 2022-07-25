@@ -1,0 +1,142 @@
+Módulo 1 - Introdução Geral
+- Como aprender
+- Como funciona um site
+- Como um servidor funciona
+- Como o PHP funciona
+- Página Estática vs Dinâmica
+- Tudo sobre editores de código
+- Editor: SublimeText 2
+
+Módulo 2 - HTML e CSS
+- O que é HTML?
+- Onde salvar? Como abrir?
+- Estrutura de uma Página Web
+- Cabeçalhos
+- Parágrafos
+- Formatação de textos
+- Listas não ordenadas
+- Imagens
+- Links
+- Tabelas
+- Formulários
+- Iframe
+- Acionadores de Eventos (ex: OnClick)
+- O que é CSS?
+- Inline CSS
+- Seletores CSS
+- Classes e IDs
+- Tags DIV e SPAN
+- Bordas
+- Formatação de Texto
+- Box Model
+- Elementos Flutuantes
+- Elementos inline, block e inline-block
+- Formatando links
+- Entendendo diretórios
+- Photoshop: introdução
+- Photoshop: Criando Documento
+- Photoshop: Salvando Imagens
+- Projeto: Transformando Imagem em HTML (1/2)
+- Projeto: Transformando Imagem em HTML (2/2)
+
+Módulo 3: HTML5 e CSS3
+- Tag Header, Footer e Nav
+- Tag Section, Article, Aside e Time
+- Compatibilidade com HTML 5
+- Tags de Input
+- Atributo Data
+- Tag Video
+- Tag Audio
+- Media Query
+- Design Responsivo 1
+- Design Responsivo 2
+- Chrome Developer Tools
+- Viewport
+- Placeholder
+- Autofocus
+- Size e MaxLength
+- Required Input
+- AutoComplete
+- Normalize.css
+- Borda Arrdondada
+- Degradê
+- Animações
+- Sombras
+- Transições
+- Webkit
+- WordWrap
+- Meta tag (social sharing)
+- Montando um portal (1/10)
+- Montando um portal (2/10)
+- Montando um portal (3/10)
+- Montando um portal (4/10)
+- Montando um portal (5/10)
+- Montando um portal (6/10)
+- Montando um portal (7/10)
+- Montando um portal (8/10)
+- Montando um portal (9/10)
+- Montando um portal (10/10)
+- Portal - Responsivo (1/3)
+- Portal - Responsivo (2/3)
+- Portal - Responsivo (3/3)
+- Flexbox: Introdução e Direções
+- Flexbox: Alinhamento (1/2)
+- Flexbox: Alinhamento (2/2)
+- Projeto: Site com Flexbox e HTML Semântico (parte 1)
+- Projeto: Site com Flexbox e HTML Semântico (parte 2)
+- Projeto: Site com Flexbox e HTML Semântico (parte 3)
+- Projeto: Site com Flexbox e HTML Semântico (parte 4)
+- Projeto: Site com Flexbox e HTML Semântico (parte 5)
+- Projeto: Site com Flexbox e HTML Semântico (parte 6)
+- Projeto: Site com Flexbox e HTML Semântico (parte 7)
+- Projeto: Site com Flexbox e HTML Semântico (parte 8)
+- Exercício: Página de tributo
+- Exercício: Um formulário de pesquisa
+- Exercício: Uma página de apresentação
+- Exercício: Um clone do Google
+- Exercício: Um clone dos resultados do Google
+
+Módulo 4: Fundamentos de Programação
+- Como funciona a programação
+- Variáveis
+- Verificadores
+- Repetidores
+- Funções
+- Construindo Algoritmos #1
+- Construindo Algoritmos #2
+- Construindo Algoritmos #3
+- Construindo Algoritmos #4
+- Teoria vs Prática
+- Como um servidor funciona #2
+- O que é Apache?
+- Server-side / Browser-side
+- Como instalar um servidor interno
+- Configurações básicas do Apache
+- Como criar um servidor virtual no Apache
+- Configurações básicas do PHP
+- Problemas Comuns com Apache
+- O que é FTP?
+- Como conectar um FTP?
+- Domínio e Hospedagem
+- Onde colocar os arquivos PHP?
+- Diferença entre HMTL e PHP
+- Sintaxe de códigos PHP
+- Uso de comentários
+- Jogando informações na tela
+- Tipos de variáveis
+- Variáveis Compostas
+- Variáveis Globais
+- Constantes
+- Formas de usar variáveis
+- IF ELSE
+- Receber dados de um formulário
+- SWITCH
+- Usando múltiplos arquivos PHP
+- Encode
+- Projeto: Anti-F5
+- Hospedagem: O que é e os tipos
+- Domínio: O que é e os tipos
+- Como contratar uma hospedagem?
+- Como registrar um domínio?
+- cPanel: Visão Geral
+- Colocar site simples no ar
